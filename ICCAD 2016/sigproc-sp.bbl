@@ -1,0 +1,133 @@
+\begin{thebibliography}{10}
+
+\bibitem{tensorflow}
+M.~Abadi, A.~Agarwal, P.~Barham, E.~Brevdo, Z.~Chen, C.~Citro, G.~S. Corrado,
+  A.~Davis, J.~Dean, M.~Devin, S.~Ghemawat, I.~Goodfellow, A.~Harp, G.~Irving,
+  M.~Isard, Y.~Jia, R.~Jozefowicz, L.~Kaiser, M.~Kudlur, J.~Levenberg,
+  D.~Man\'{e}, R.~Monga, S.~Moore, D.~Murray, C.~Olah, M.~Schuster, J.~Shlens,
+  B.~Steiner, I.~Sutskever, K.~Talwar, P.~Tucker, V.~Vanhoucke, V.~Vasudevan,
+  F.~Vi\'{e}gas, O.~Vinyals, P.~Warden, M.~Wattenberg, M.~Wicke, Y.~Yu, and
+  X.~Zheng.
+\newblock {TensorFlow}: Large-scale machine learning on heterogeneous systems,
+  2015.
+\newblock Software available from tensorflow.org.
+
+\bibitem{theano}
+F.~Bastien, P.~Lamblin, R.~Pascanu, J.~Bergstra, I.~J. Goodfellow, A.~Bergeron,
+  N.~Bouchard, and Y.~Bengio.
+\newblock Theano: new features and speed improvements.
+\newblock Deep Learning and Unsupervised Feature Learning NIPS 2012 Workshop,
+  2012.
+
+\bibitem{dadiannao}
+Y.~Chen, T.~Luo, S.~Liu, S.~Zhang, L.~He, J.~Wang, L.~Li, T.~Chen, Z.~Xu,
+  N.~Sun, et~al.
+\newblock Dadiannao: A machine-learning supercomputer.
+\newblock In {\em Proceedings of the 47th Annual IEEE/ACM International
+  Symposium on Microarchitecture}, pages 609--622. IEEE Computer Society, 2014.
+
+\bibitem{isscc.1}
+Y.-H. Chen, T.~Krishna, J.~Emer, and V.~Sze.
+\newblock 14.5 eyeriss: An energy-efficient reconfigurable accelerator for deep
+  convolutional neural networks.
+\newblock In {\em 2016 IEEE International Solid-State Circuits Conference
+  (ISSCC)}, pages 262--263. IEEE, 2016.
+
+\bibitem{icassp'13}
+A.~Graves, A.-r. Mohamed, and G.~Hinton.
+\newblock Speech recognition with deep recurrent neural networks.
+\newblock In {\em Acoustics, Speech and Signal Processing (ICASSP), 2013 IEEE
+  International Conference on}, pages 6645--6649. IEEE, 2013.
+
+\bibitem{lstmsum}
+K.~Greff, R.~K. Srivastava, J.~Koutn{\'\i}k, B.~R. Steunebrink, and
+  J.~Schmidhuber.
+\newblock Lstm: A search space odyssey.
+\newblock {\em arXiv preprint arXiv:1503.04069}, 2015.
+
+\bibitem{drn}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Deep residual learning for image recognition.
+\newblock {\em arXiv preprint arXiv:1512.03385}, 2015.
+
+\bibitem{caffe}
+Y.~Jia, E.~Shelhamer, J.~Donahue, S.~Karayev, J.~Long, R.~Girshick,
+  S.~Guadarrama, and T.~Darrell.
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock In {\em Proceedings of the ACM International Conference on
+  Multimedia}, pages 675--678. ACM, 2014.
+
+\bibitem{cvpr'15}
+H.~Li, Z.~Lin, X.~Shen, J.~Brandt, and G.~Hua.
+\newblock A convolutional neural network cascade for face detection.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 5325--5334, 2015.
+
+\bibitem{fccm'15}
+S.~Li, C.~Wu, H.~Li, B.~Li, Y.~Wang, and Q.~Qiu.
+\newblock Fpga acceleration of recurrent neural network based language model.
+\newblock In {\em Field-Programmable Custom Computing Machines (FCCM), 2015
+  IEEE 23rd Annual International Symposium on}, pages 111--118. IEEE, 2015.
+
+\bibitem{pudiannao}
+D.~Liu, T.~Chen, S.~Liu, J.~Zhou, S.~Zhou, O.~Teman, X.~Feng, X.~Zhou, and
+  Y.~Chen.
+\newblock Pudiannao: A polyvalent machine learning accelerator.
+\newblock In {\em Proceedings of the Twentieth International Conference on
+  Architectural Support for Programming Languages and Operating Systems}, pages
+  369--381. ACM, 2015.
+
+\bibitem{aeye}
+J.~Qiu, J.~Wang, S.~Yao, K.~Guo, B.~Li, E.~Zhou, J.~Yu, T.~Tang, N.~Xu,
+  S.~Song, et~al.
+\newblock Going deeper with embedded fpga platform for convolutional neural
+  network.
+\newblock In {\em Proceedings of the 2016 ACM/SIGDA International Symposium on
+  Field-Programmable Gate Arrays}, pages 26--35. ACM, 2016.
+
+\bibitem{xnor}
+M.~Rastegari, V.~Ordonez, J.~Redmon, and A.~Farhadi.
+\newblock Xnor-net: Imagenet classification using binary convolutional neural
+  networks.
+\newblock {\em arXiv preprint arXiv:1603.05279}, 2016.
+
+\bibitem{app'14}
+R.~Sarikaya, G.~E. Hinton, and A.~Deoras.
+\newblock Application of deep belief networks for natural language
+  understanding.
+\newblock {\em Audio, Speech, and Language Processing, IEEE/ACM Transactions
+  on}, 22(4):778--784, 2014.
+
+\bibitem{isscc.2}
+J.~Sim, J.-S. Park, M.~Kim, D.~Bae, Y.~Choi, and L.-S. Kim.
+\newblock 14.6 a 1.42 tops/w deep convolutional neural network recognition
+  processor for intelligent ioe systems.
+\newblock In {\em 2016 IEEE International Solid-State Circuits Conference
+  (ISSCC)}, pages 264--265. IEEE, 2016.
+
+\bibitem{vgg}
+K.~Simonyan and A.~Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{fpga'16}
+N.~Suda, V.~Chandra, G.~Dasika, A.~Mohanty, Y.~Ma, S.~Vrudhula, J.-s. Seo, and
+  Y.~Cao.
+\newblock Throughput-optimized opencl-based fpga accelerator for large-scale
+  convolutional neural networks.
+\newblock In {\em Proceedings of the 2016 ACM/SIGDA International Symposium on
+  Field-Programmable Gate Arrays}, pages 16--25. ACM, 2016.
+
+\bibitem{lstm}
+W.~Zaremba, I.~Sutskever, and O.~Vinyals.
+\newblock Recurrent neural network regularization.
+\newblock {\em arXiv preprint arXiv:1409.2329}, 2014.
+
+\bibitem{fpga'15}
+C.~Zhang, P.~Li, G.~Sun, Y.~Guan, B.~Xiao, and J.~Cong.
+\newblock Optimizing fpga-based accelerator design for deep convolutional
+  neural networks.
+\newblock In {\em Proceedings of the 2015 ACM/SIGDA International Symposium on
+  Field-Programmable Gate Arrays}, pages 161--170. ACM, 2015.
+
+\end{thebibliography}
