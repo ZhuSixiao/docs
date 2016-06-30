@@ -1,2 +1,0 @@
-graph coloring algo cite:
-D. Brélaz, New Methods to color the vertices of a graph, Communication of ACM. April 1979, Vol. 22. Number 4
